@@ -13,7 +13,7 @@
 
 Sinh viên năm cuối ngành **Công nghệ Thông tin** tại **Đại học Giao thông Vận tải**, định hướng phát triển chuyên sâu theo con đường **QA/QC Engineer**. Đã có kinh nghiệm thực chiến kiểm thử các bài toán nghiệp vụ phức tạp (*State Transition, Phân quyền ma trận đa vai trò, Tích hợp chữ ký số & CCCD*) trên hệ thống quy mô quốc gia.
 
-- 🎓 **Học vấn:** Cử nhân Công nghệ Thông tin — ĐH Giao thông Vận tải (Dự kiến tốt nghiệp: 2026 | **GPA: 3.39 / 4.0**)
+- 🎓 **Học vấn:** Cử nhân Công nghệ Thông tin — ĐH Giao thông Vận tải (Dự kiến tốt nghiệp: 2027 | **GPA: 3.39 / 4.0**)
 - 🏆 **Kinh nghiệm nổi bật:** Hoàn thành thiết kế và chuẩn hóa bộ hơn **400–500 test cases** cho hệ thống 1,3 triệu dữ liệu tại **VNPT Technology**.
 - 🎯 **Mục tiêu tiếp theo:** Đạt chứng chỉ quốc tế **ISTQB Foundation Level (CTFL)** & nâng cao kỹ năng **Automation Testing (Selenium, Playwright)**.
 - 📚 **Đang trau dồi:** Ôn luyện TOEIC, Postman API Testing.
